@@ -8,5 +8,5 @@ Here, you'll find writeups to various CTFs I participated in or some THM/HTB stu
 
 ## PicoCTF 2022
 <ul>
-  <li>[ Forensics ](https://me-resilient64.gitbook.io/picoctf-2022-forensics)</li>
+  <li>[This is an external link to genome.gov](https://www.genome.gov/)</li>
 </ul>
